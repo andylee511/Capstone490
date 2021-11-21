@@ -1,2 +1,2 @@
-# Capstonr490
+# Capstone490
 capstone project file
